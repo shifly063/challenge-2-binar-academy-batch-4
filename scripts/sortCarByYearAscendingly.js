@@ -9,12 +9,12 @@ function sortCarByYearAscendingly(cars) {
   // Tulis code-mu disini
 
   for(let i = 1; i < result.length; i++) {
-    let j = i;
+    let j = i
     while (j > 0  && result[j - 1].year > result[j].year) {
-      let container = result[j - 1];
-      result[j - 1] = result[j];
-      result[j] = container;
-      j--;
+      let container = result[j - 1]
+      result[j - 1] = result[j]
+      result[j] = container
+      j--
     }
   }
 
