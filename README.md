@@ -596,5 +596,4 @@ Contoh output:
 # Tips
 
 Happy coding!
-#   c h a l l e n g e - 2 - b i n a r - a c a d e m y - b a t c h - 4  
- 
+#
